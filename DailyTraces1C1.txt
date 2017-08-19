@@ -55,4 +55,9 @@
 	
 180817	
 	Access twitter with api						Twitter api and authentication https://dev.twitter.com/overview/api/tweets  tweepy 
+	
+200817
+	Append content to file and upload git		
+	
+	
 
