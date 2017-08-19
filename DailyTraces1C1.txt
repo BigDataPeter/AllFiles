@@ -1,0 +1,58 @@
+220217			
+	BigData University							https://my.datascientistworkbench.com/tools/jupyter-notebook				
+												
+	
+	Below shows how to launch mysql db from aws:	dbName210217,ins:210217 uname:hkpe0318, pw:hkpe2222
+												https://aws.amazon.com/getting-started/tutorials/create-mysql-db 
+												https://aws.amazon.com/getting-started/use-cases/databases/
+												https://console.aws.amazon.com/rds
+	
+	BATCH/STREAMING ETL WITH DATAFRAMES			https://www.youtube.com/watch?v=rl8dIzTpxrI load(), save()
+												https://www.youtube.com/watch?v=rl8dIzTpxrI stream(), startStream()
+												
+	RUNNING KAFKA ON WIN OS						https://www.youtube.com/wa
+
+	
+240217
+	Building Client-side Search Applications with Solr, Daniel Beach, OpenSource Connections https://www.youtube.com/watch?v=Cwj6j5juK04&t=21s (spyglass)
+	What the Heck are Algebraic Data Types?		http://merrigrove.blogspot.hk/2011/12/another-introduction-to-algebraic-data.html
+	Spark SQL, DataFrames and Datasets Guide	http://spark.apache.org/docs/latest/sql-programming-guide.html#starting-point-sparksession
+	28 vedeos on scala programming tutorials	https://www.youtube.com/watch?v=7j8-wN34hd4&index=1&list=PLbu9W4c-C0iB--RNIzTXVksxQEI4vLK5-		
+	
+250217
+	A REST Web Service For Apache Spark			http://livy.io
+	Anaconda Cloud registration					https://docs.continuum.io/anaconda-cloud/   AnaPeter	hkpe4figs hkpegmail
+	Using Anaconda cloud						https://docs.continuum.io/anaconda-cloud/using#Packages
+	
+260217	
+	Getting start documentation on fusion/LWS	https://doc.lucidworks.com/fusion/3.0/Getting-Started.html    On ubuntu: admin, hkpe4figs hk pe CSL
+	Learning lot of programming					https://www.recurse.com
+	
+270217
+	Quick start spark2.10						http://spark.apache.org/docs/latest/quick-start.html 
+												http://spark.apache.org/docs/latest/programming-guide.html#initializing-spark
+	Scala for the Intrigued						https://www.youtube.com/watch?v=grvvKURwGNg  Venkat Subramaniam  
+
+280217
+	HDFS user guide								http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html
+	
+100317
+	Learn Scala programming						https://www.tutorialspoint.com/scala/scala_tuples.htm
+	
+260317
+	AWS EMR Redshift Spark toPower Analytics	http://www.47lining.com
+	
+290317
+	Linear regression							https://www.youtube.com/watch?v=Qa2APhWjQPc
+	
+300317
+	Functional scala programming				https://www.coursera.org/learn/progfun1 hkpe0318@gmail.com hkpe4fig  Peter HF Chan
+	Data processing with Python					https://www.coursera.org/learn/hipython?authMode=login  as above
+	Introduction to R						    https://www.datacamp.com/courses/free-introduction-to-r   hkpe0318@yahoo.com  hkpe4fig
+	
+170417
+	DataSciencewith Scala SC0105EN (BDU)		https://courses.bigdatauniversity.com/  https://spark.apache.org/docs/1.1.0/mllib-data-types.html VECTOR/labelPt
+	
+180817	
+	Access twitter with api						Twitter api and authentication https://dev.twitter.com/overview/api/tweets  tweepy 
+
