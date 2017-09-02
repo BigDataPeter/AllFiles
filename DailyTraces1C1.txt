@@ -57,7 +57,18 @@
 	Access twitter with api						Twitter api and authentication https://dev.twitter.com/overview/api/tweets  tweepy 
 	
 200817
-	Append content to file and upload git		using server side to upload this file from pc.
+	Append content to file and upload git	
+
+250817
+	Learning Functional Programming in Scala,	pdf copy downloaded in downloadworkshop,  https://github.com/fpinscala/fpinscala
+	All About scala								http://allaboutscala.com/ 
 	
+310817	
+	Hadoop lab (cloud) setup					IBM analytics demo cloud( https://my.imdemocloud.com), click big sql technology sandbox, system, ambari, ssh,
+												winscp -- transfer files between yours and cloud directory( hostname:iop-bi-master.imdemocloud.com )
+010917
+	Scala, Spark, IJ							http://allaboutscala.com/big-data/spark/  http://allaboutscala.com/  
+												http://allaboutscala.com/tutorials/chapter-1-getting-familiar-intellij-ide/
+												
 	
 
